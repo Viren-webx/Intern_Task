@@ -177,7 +177,7 @@ Possible improvements for future versions:
 
 # Author
 
-Deploy Link - https://intertaskk.netlify.app/login
+Deploy Link - https://intertaskk.netlify.app
 
 GitHub
 https://github.com/Viren-webx
