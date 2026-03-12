@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { useAuth } from "../Context/AuthContext";
+import { useAuth } from "../context/AuthContext";
 import { validateLogin } from "../utils/validation";
 
 export default function Login() {
@@ -71,4 +71,5 @@ export default function Login() {
 
     </div>
   );
+
 }
