@@ -58,7 +58,7 @@ export default function Login() {
           />
 
           <button className="w-full bg-gray-400  hover:bg-blue-500 hover:text-white transition-all text-gray-500 text-xl py-3 rounded-lg font-bold shadow-md hover:shadow-lg">
-            Do't chlick Login
+          Login
           </button>
 
         </form>
