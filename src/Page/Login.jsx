@@ -58,13 +58,13 @@ export default function Login() {
           />
 
           <button className="w-full bg-gray-400  hover:bg-blue-500 hover:text-white transition-all text-gray-500 text-xl py-3 rounded-lg font-bold shadow-md hover:shadow-lg">
-            Login
+            Do't chlick Login
           </button>
 
         </form>
 
         <p className="text-[10] text-gray-200 text-center mt-5">
-          Demo: test@test.comm / 123456
+          Demo: test@test.com / 123456
         </p>
 
       </div>
