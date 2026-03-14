@@ -64,7 +64,7 @@ export default function Login() {
         </form>
 
         <p className="text-[10] text-gray-200 text-center mt-5">
-          Demo: test@test.com / 123456
+          Demo: test@test.comm / 123456
         </p>
 
       </div>
